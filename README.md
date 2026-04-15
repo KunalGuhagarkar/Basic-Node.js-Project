@@ -139,7 +139,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@KunalGuhagarkar](https://github.com/KunalGuhagarkar)
 
 ---
 

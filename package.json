@@ -1,0 +1,28 @@
+{
+  "name": "basic-nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunalGuhagarkar/Basic-Node.js-Project.git"
+  },
+  "author": "Kunal Guhagarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunalGuhagarkar/Basic-Node.js-Project/issues"
+  },
+  "homepage": "https://github.com/KunalGuhagarkar/Basic-Node.js-Project#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.2.0",
+    "nodemon": "^3.1.14",
+    "prettier": "^3.8.3"
+  }
+}

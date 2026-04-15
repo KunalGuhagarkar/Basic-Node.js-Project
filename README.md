@@ -49,7 +49,7 @@ node --version    # v14.0.0 or higher recommended
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/my-node-server.git
+git clone https://github.com/KunalGuhagarkar/Basic-Node.js-Project.git
 cd my-node-server
 ```
 
